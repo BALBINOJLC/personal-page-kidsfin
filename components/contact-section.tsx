@@ -18,7 +18,7 @@ export function ContactSection() {
     {
       icon: MapPin,
       label: "Ubicación",
-      value: "Bahí de plata Nueva Esparta, Venezuela",
+      value: "Bahía de plata Nueva Esparta, Venezuela",
       href: null,
     },
   ]
