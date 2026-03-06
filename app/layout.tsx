@@ -7,7 +7,7 @@ const _geist = Geist({ subsets: ["latin"] });
 const _geistMono = Geist_Mono({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: 'Balbino Lasala | CTO KidsFin - Postulación Platanus',
+  title: 'Balbino Lasala | CTO KidsFin',
   description: 'CTO y Co-Fundador de KidsFin. Full Stack Developer especializado en arquitectura de software, Flutter, NestJS y soluciones cloud escalables.',
   generator: 'v0.app',
   icons: {

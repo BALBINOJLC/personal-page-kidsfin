@@ -42,9 +42,6 @@ export function HeroSection() {
         <div className="grid md:grid-cols-2 gap-8 items-center min-h-[calc(100vh-8rem)]">
           {/* Text Content */}
           <div className="order-2 md:order-1 text-center md:text-left">
-            <p className="text-white/90 uppercase tracking-[0.3em] text-sm md:text-base mb-4 font-semibold">
-              Postulación Platanus
-            </p>
             <h1 className="text-4xl md:text-6xl lg:text-7xl font-black text-white leading-tight mb-6 text-balance">
               BALBINO
               <br />

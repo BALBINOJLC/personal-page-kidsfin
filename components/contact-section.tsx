@@ -55,7 +55,6 @@ export function ContactSection() {
             ¿Listo para conectar?
           </h2>
           <p className="text-white/70 text-lg max-w-2xl mx-auto">
-            Estoy emocionado por la oportunidad de ser parte de Platanus. 
             No dudes en contactarme para conversar sobre KidsFin o cualquier otra idea.
           </p>
         </div>

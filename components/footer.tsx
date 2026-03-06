@@ -9,8 +9,8 @@ export function Footer() {
           <div className="flex items-center gap-2 text-white/60 text-sm">
             <span>Hecho con</span>
             <Heart className="w-4 h-4 text-[#F5A623] fill-[#F5A623]" />
-            <span>para</span>
-            <span className="font-bold text-[#F5A623]">Platanus</span>
+            <span>en</span>
+            <span className="font-bold text-[#F5A623]">Venezuela</span>
           </div>
           
           <div className="text-white/60 text-sm">
