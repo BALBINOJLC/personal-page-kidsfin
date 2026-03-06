@@ -18,7 +18,7 @@ export function ContactSection() {
     {
       icon: MapPin,
       label: "Ubicación",
-      value: "Villa Alemana, Valparaíso, Chile",
+      value: "Bahí de plata Nueva Esparta, Venezuela",
       href: null,
     },
   ]
